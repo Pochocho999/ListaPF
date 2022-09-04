@@ -3,18 +3,24 @@
 #EXTINF:-1 tvg-chno="194" tvg-id="TNT Sports.ar" tvg-name="TNT Sports.ar" tvg-logo="" group-title="FUTBOL", TNT Sports
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/94714
 
-#EXTINF:-1 tvg-chno="194" tvg-id="TyC Sports ARG.ar" tvg-name="TyC Sports ARG.ar" tvg-logo="" group-title="FUTBOL", TyC Sports ARG
+#EXTINF:-1 tvg-chno="194" tvg-id="TyC Sports ARG.ar" tvg-name="TyC Sports ARG.ar" tvg-logo="https://futbollibre.net/img/logo-canal/TYC_Sports.webp?" group-title="FUTBOL", TyC Sports ARG
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/52688
-#EXTINF:-1 tvg-chno="194" tvg-id="TyC Sports ARG.ar" tvg-name="Fox Sport 1.ar" tvg-logo="h" group-title="FUTBOL", Fox Sports 1
-http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/41745
-#EXTINF:-1 tvg-chno="194" tvg-id="TyC Sports ARG.ar" tvg-name="ESPN 1.ar" tvg-logo="" group-title="FUTBOL", ESPN 1
+
+#EXTINF:-1 tvg-chno="194" tvg-id="ESPN Premium.ar" tvg-name="ESPN Premium.ar" tvg-logo="" group-title="FUTBOL", ESPN Premium
+http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/16229
+
+#EXTINF:-1 tvg-chno="194" tvg-id="ESPN 1.ar" tvg-name="ESPN 1.ar" tvg-logo="" group-title="FUTBOL", ESPN 1
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/41620
-#EXTINF:-1 tvg-chno="194" tvg-id="TyC Sports ARG.ar" tvg-name="ESPN 2.ar" tvg-logo="" group-title="FUTBOL", ESPN 2
+
+#EXTINF:-1 tvg-chno="194" tvg-id="ESPN 2.ar" tvg-name="ESPN 2.ar" tvg-logo="" group-title="FUTBOL", ESPN 2
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/16663
-#EXTINF:-1 tvg-chno="194" tvg-id="TyC Sports ARG.ar" tvg-name="Fox Sport 1.ar" tvg-logo="" group-title="FUTBOL", Fox Sport 1
+
+#EXTINF:-1 tvg-chno="194" tvg-id="Fox Sport 1.ar" tvg-name="Fox Sport 1.ar" tvg-logo="" group-title="FUTBOL", Fox Sport 1
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/12312
-#EXTINF:-1 tvg-chno="194" tvg-id="TyC Sports ARG.ar" tvg-name="Fox Sport 3.ar" tvg-logo="" group-title="FUTBOL", Fox Sport 3.ar
+
+#EXTINF:-1 tvg-chno="194" tvg-id="Fox Sport 3.ar" tvg-name="Fox Sport 3.ar" tvg-logo="" group-title="FUTBOL", Fox Sport 3
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/101
-#EXTINF:-1 tvg-chno="194" tvg-id="TyC Sports ARG.ar" tvg-name="Fox Sport 2.ar" tvg-logo="" group-title="FUTBOL", Fox Sport 2.ar
+
+#EXTINF:-1 tvg-chno="194" tvg-id="Fox Sport 2.ar" tvg-name="Fox Sport 2.ar" tvg-logo="" group-title="FUTBOL", Fox Sport 2
 http://elmasteriptv.com:8000/sebastian.conchabaeza@gmail.com/cOxaZIJb1l/102
 
